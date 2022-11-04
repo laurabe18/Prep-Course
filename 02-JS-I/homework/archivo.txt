@@ -1,0 +1,7 @@
+DEFINICIONES:
+
+VARIABLES: Datos que son almacenados para luego poder utilizarlos, son declarados y a su vez se le puede o no asignar un valor usando = 
+STRING: es una cadena de texto que siempre se escribe entre comillas.
+FUNCIONES: es un bloque de codigo entre {} que se reutiliza, es decir que se puede volver a utilizar una vez que se la llama (nombre de la funcion + ()). Puede poseer argumentos (parametros) que van dentro de parentesis y retornan un valor utilizando el return.
+DECLARACIONES IF: es una condicional, para ello se utiliza 2 o mas sentencias y dependiendo del resultado ejecuta una u otra accion.
+VALORES BOOLEANOS:Dan como respuesta TRUE(verdadero), FALSE(falso) dependiendo de la condicion que se cumpla. 
