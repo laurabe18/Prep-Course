@@ -1,0 +1,5 @@
+DEFINICIONES:
+
+FOR: es la reiteracion de un bloque de codigo, siempre y cuando se cumpla la condicion que tiene designada. es similar al If, ya que utiliza parentesis y llaves para mantener ese codigo. Consta de 3 partes (la declaracion de una variable; expresion de una condicion; y el incremento de dicha variable) esta construccion se separa con punto y coma. 
+
+&&, ||, !: Son operadores logicos que dan como respuesta valores booleanos (true-false). && se utiliza para comparar expresiones, donde ambas deben ser true para que este retorne dicho valor, de lo contrario retornara false. || tambien comprar 2 o mas expresiones, pero aca con qu una sea true retornara dicho valor, para false todas deben serlo. ! se antepone a cualquier expreseion e invierte el valor, si era true lo convierte en false y viceversa.
