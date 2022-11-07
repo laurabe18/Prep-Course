@@ -1,0 +1,3 @@
+DESCRIPCION:
+
+ARRAY: Es una lista de elementos, de diferentes tipos, es decir que puede contener cadena de texto, numeros, booleanos, funciones e incluso otro array. Estos se contienen dentro de []. Cada elemento posee una posicion llamada indice arrancando desde 0. Por eso para invocar dicho elemento se debe indicar el num de su posicion.
