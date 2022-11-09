@@ -1,0 +1,11 @@
+DESCRICIONES:
+
+OBJETO: Es un contenedor que almacena datos. Posee mucha informacion acerca de un tema puntual. Su sintaxis es NOMBRE DEL OBJETO = NOMBRE DE LA CLAVE: VALOR D LA CLAVE QUE DESAMOS GUARDAR. Todo esto va contenido entre llaves y separado con comas. Se puede colocar cualquier tipo de datos como en un array, string, numeros, booleanos, funciones, array.
+
+PROPIEDADES: Son cualidades que posee el objetos, que se esta describiendo, el cual posee un valor. Por ejemplo: EDAD: 37
+
+METODOS: como mensione anteriormente, dentro del objeto puede ir cualquier tipo de dato, entre ellas las funciones, con la particularidad que aca se llaman metodos. Y se la invoca como cualquier otra funcion NOMBR DE LA FUNCION ().
+
+BUCLE FOR...IN: Se utiliza para recorrer todo el objeto, es similar al FOR que se utiliza en el array, en cuanto a su iteracionpero como no se puede utilizar en los objetos se diseño este tipo de bucle. Su sintaxis es FOR(var clave in NOMBRE DEL OBJ){} Lo que hace es traer todas las claves que tenga el obj, tambien puede traer su valor sise lo pide mediante [].
+
+NOTACION DE PUNTOS VS NOTACION DE CORCHETES: Para saber los valores que tienen las claves del obj, lo que se hace es colocar NOMBRE DEL OBJ.NOMBRE DE LA CLAVE tambien se lo puede invocar llamandolo con corchetes poniendo el NOMBRE DE LA CLAVE O VARIABLE envuelta entra comillas. La forma mas usada para los obj es utilizar el punto y dejar  los corchetes para los array.
