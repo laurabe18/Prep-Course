@@ -1,0 +1,5 @@
+DESCRIPCION:
+
+PROTOTYPE:Es una propiedad que tiene cada clase y eso da lugar a los objetos de dicha clase a acceder a sus metodos. estos metodos tambien tienen acceso a la palabra this que hace referencia al objeto.
+
+CONSTRUCTOR: Es un metodo  especial para crear e inicializar un objeto a partir de una clase. Solo puede haber un constructor por clase.
