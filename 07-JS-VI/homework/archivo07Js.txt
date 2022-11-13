@@ -1,0 +1,3 @@
+DESCRIPCION:
+
+FUNCIONES CALLBACK:  Son funciones pasadas como argumento en otra funcion, la convencion utiliza cb como argumento de una variable que sera un callback.
